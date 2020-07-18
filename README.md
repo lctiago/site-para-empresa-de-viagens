@@ -1,1 +1,1 @@
-# site-para-empresa-de-viagens
+Este é um site simples feito em HTML puro para uma empresa de viagens.
